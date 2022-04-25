@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Changsoon Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi~~~ hi~~~"
+  bio              : "Hi~~~"
   location         : "South korea"
   email            : "kimchsoon@gmail.com"
   links:
@@ -277,6 +277,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
