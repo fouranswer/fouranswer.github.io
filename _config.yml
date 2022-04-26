@@ -15,10 +15,10 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-KR"
+title                    : "fouranswer.github.io"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Changsoon Kim"
 name                     : "Changsoon Kim"
 description              : "An amazing website."
 url                      : "https://fouranswer.github.io"
