@@ -24,8 +24,8 @@ description              : "김창순의 블로그 입니다."
 url                      : "https://fouranswer.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "fouranswer/fouranswer" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/changsoon_kim.jpg" # e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/changsoon_kim.jpg"
+teaser                   : "" # e.g. "/assets/images/500x300.png"
+logo                     : ""
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true  # true, false (default)
 words_per_minute         : 200
@@ -100,7 +100,7 @@ author:
   location         : "South korea"
   email            : #"kimchsoon@gmail.com"
   links:
-    - label: "Email"
+    - label: "kimchsoon@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kimchsoon@gmail.com"
     - label: "Tistory blog"
@@ -130,7 +130,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/fouranswer"
+      # url: "https://github.com/fouranswer"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

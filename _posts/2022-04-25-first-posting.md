@@ -5,15 +5,31 @@ categories: github
 tag : [jekyll]
 toc: true
 toc_sticky: true
+search: true
+sidebar:
+    nav: "docs"
 ---
 
 # Hello world 
+{: .notice--danger}
+(https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
+
+<div class="notice--success">
+<h2>공지사항입니다</h2>
+<ul>
+    <li>1번~</li>
+    <li>2번~</li>
+</ul>
+</div>
+
+
 this is my first Jekyll blog post.
 I hope you like it!
 
 첫 번째 포스팅 테스트. 
 잘 올라가나?
 
+[google](https://google.com){: .btn .btn--danger}
 
 ## 코드 표시 테스트
 
@@ -21,6 +37,10 @@ I hope you like it!
 # ~ 물결 표시!!    ₩₩₩python
 print("hello, world!!")
 ```
+
+Youtube 링크
+
+{% include video id="2fDzCWNS3ig" provider="youtube" %}
 
 
 # github.io 설치 방법
