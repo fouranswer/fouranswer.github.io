@@ -1,17 +1,29 @@
 ---
-layout: posts
+layout: single
 title:  "첫 포스팅 및 jekyll 설치 방법"
+categories: github
+tag : [jekyll]
+toc: true
+toc_sticky: true
 ---
 
-
-**Hello world**, this is my first Jekyll blog post.
-
+# Hello world 
+this is my first Jekyll blog post.
 I hope you like it!
 
 첫 번째 포스팅 테스트. 
-
 잘 올라가나?
 
+
+## 코드 표시 테스트
+
+``` python
+# ~ 물결 표시!!    ₩₩₩python
+print("hello, world!!")
+```
+
+
+# github.io 설치 방법
 
 ## 20220427 - pc에서 로컬 개발환경 설정을 진행
 
@@ -62,8 +74,9 @@ zshrc 내용
 source /opt/homebrew/opt/chruby/share/chruby/chruby.sh
 
 source /opt/homebrew/opt/chruby/share/chruby/auto.sh
-#### chruby ruby-3.1.1  # 어떤 용도인지는 모르겠으나... 이걸 했을때 zsh에서 로드가 안되나보다.
-### rbenv
+// chruby ruby-3.1.1  # 어떤 용도인지는 모르겠으나... 이걸 했을때 zsh에서 로드가 안되나보다.
+
+// rbenv
 export PATH=~/.rbenv/bin:$PATH
 eval "$(rbenv init -)"
 
@@ -80,12 +93,16 @@ bundle install
 
 bundle add webrick
 
-bundle exec jekyll serve
+bundle exec jekyll serve    // 이제 큰 설정이 바뀔 때는 이 명령으로 다시 실행해준다.
 
 
+# test1
 
-여기에서 테스트해보고 다시 커밋해보자!
+## test2
 
+### test3
 
+# test2
+## test3
 
 

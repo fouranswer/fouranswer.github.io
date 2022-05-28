@@ -1,6 +1,10 @@
 ---
-layout: posts
-title:  "안녕하세요. 김창순 입니다"
+layout: single
+title:  "Hi~ "
+categories: profile
+tag : [profile]
+toc: true
+toc_sticky: true
 ---
 
 
