@@ -6,8 +6,11 @@ tag : [profile]
 toc: true
 toc_sticky: true
 search: true
-sidebar:
-    nav: "docs"
+author_profile: true
+sidebar_main: true
+
+# sidebar:
+#     nav: "docs"
 ---
 
 

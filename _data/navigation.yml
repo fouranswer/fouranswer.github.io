@@ -1,17 +1,19 @@
 # main links
 main:
-  - title: "Profile"
-    url: /profile/
-  - title: "Projects"
-    url: /project/
+  - title: "About"
+    url: /about/
+  # - title: "Projects"
+  #   url: /project/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "Posts"
     url: /categories/
   - title: "Search"
     url: /search/
   # - title: "Tag"
   #   url: /tags/
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -21,13 +23,13 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
-  - title: "대목차"
-    children:
-      - title : "Category"
-        url: /categories/
-      - title : "Tag"
-        url: /tags/
+# docs:
+#   - title: "대목차"
+#     children:
+#       - title : "Category"
+#         url: /categories/
+#       - title : "Tag"
+#         url: /tags/
 
   # - title: "대목차2"
   #   children:
@@ -36,12 +38,21 @@ docs:
   #     - title : "Tag"
   #       url: /tags/
 
-project:
-  - title: "Robot"
-    children:
-      - title: "Undergraudate"
-        url: /categories/
-      - title: "Graduate"
-        url: /categories/
-      - title: "Wonik Robotics"
-        url: /categories/
+# project:
+#   - title: "Robot"
+#     children:
+#       - title: "Undergraudate"
+#         url: /categories/
+#       - title: "Graduate"
+#         url: /categories/
+#       - title: "Wonik Robotics"
+#         url: /categories/
+
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/mmistakes"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/mmistakes"
