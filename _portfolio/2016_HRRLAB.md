@@ -3,7 +3,7 @@ title: "Pneumatic Muscle"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   # image: /assets/images/changsoon/changsoon_kim.jpg
-  teaser: /assets/images/hrrlab/my_muscle.jpg
+  teaser: /assets/images/hrrlab/my_muscle.JPG
 sidebar:
   # nav: "docs"
   - title: "Role"
