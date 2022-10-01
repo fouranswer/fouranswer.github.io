@@ -17,8 +17,8 @@ gallery:
     image_path: /assets/images/changsoon/IMG_4437.jpg
   - url: /assets/images/changsoon/cy-000054.jpg
     image_path: /assets/images/changsoon/cy-000054.jpg  
-  - url: /assets/images/changsoon/IMG_4473.jpg
-    image_path: /assets/images/changsoon/IMG_4473.jpg  
+  - url: /assets/images/changsoon/IMG_4473.JPG
+    image_path: /assets/images/changsoon/IMG_4473.JPG  
   - url: /assets/images/changsoon/cy-001136.jpg
     image_path: /assets/images/changsoon/cy-001136.jpg
   - url: /assets/images/changsoon/cy-001138.jpg
