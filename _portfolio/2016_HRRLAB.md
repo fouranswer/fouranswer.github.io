@@ -1,30 +1,55 @@
 ---
-title: "Pneumatic Muscle"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "HRRLAB"
+excerpt: "Our laboratory"
 header:
-  # image: /assets/images/changsoon/changsoon_kim.jpg
   teaser: /assets/images/hrrlab/my_muscle.JPG
 sidebar:
-  # nav: "docs"
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/hrrlab/hrrlab_logo22.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Humanoid Robot Research LAB"
 gallery:
-  - url: /assets/images/changsoon/changsoon_kim.jpg
-    image_path: /assets/images/changsoon/changsoon_kim.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/snut/my_first_award.jpg
-    image_path: /assets/images/snut/my_first_award.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: /assets/images/hrrlab/IMG_8950.JPG
+    image_path: /assets/images/hrrlab/IMG_8950.JPG
+  - url: /assets/images/hrrlab/IMG_8465.JPG
+    image_path: /assets/images/hrrlab/IMG_8465.JPG
+  - url: /assets/images/hrrlab/IMG_1176.JPG
+    image_path: /assets/images/hrrlab/IMG_1176.JPG
+  - url: /assets/images/hrrlab/IMG_6771.JPG
+    image_path: /assets/images/hrrlab/IMG_6771.JPG
+  - url: /assets/images/hrrlab/IMG_7065.JPG
+    image_path: /assets/images/hrrlab/IMG_7065.JPG
+  - url: /assets/images/hrrlab/IMG_6782.JPG
+    image_path: /assets/images/hrrlab/IMG_6782.JPG
+  - url: /assets/images/hrrlab/my_muscle.JPG
+    image_path: /assets/images/hrrlab/my_muscle.JPG
+  - url: /assets/images/hrrlab/my_muscle_test.jpeg
+    image_path: /assets/images/hrrlab/my_muscle_test.jpeg
+  - url: /assets/images/hrrlab/IMG_1587.jpeg
+    image_path: /assets/images/hrrlab/IMG_1587.jpeg
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+휴머노이드 로봇 연구실
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+[HRRLAB](http://www.hrrlab.com){: .btn .btn--danger}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+행복한 연구실~
+
+
+2017 Dept. of Mechanical System Design Engineering, Seoul Nat’l Univ. of Science and Technology, South Korea
+
+Thesis Title : Development of Ankle Power Assistive Robot using Pneumatic Muscle
+
+[Link](https://doi.org/10.3795/KSME-A.2017.41.8.771) / [Youtube](https://www.youtube.com/watch?v=pNlS6bKO4vw)  
+
+
+
+{% include gallery caption="" %}
+
+
+
+
+
+
+
+

@@ -1,30 +1,26 @@
 ---
-title: "Jimbot1"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+title: "Jimbot 2"
+excerpt: "Baggage transport robot 2"
 header:
-  # image: /assets/images/changsoon/changsoon_kim.jpg
   teaser: /assets/images/jimbot/jimbot2.jpg
 sidebar:
-  # nav: "docs"
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Electrical & Embedded developer\n
+    1. 모바일 모터드라이버 제어\n
+    2. 모바일 보드 Debugging\n
+    3. 양산작업\n
+    4. 고장 원인 분석 및 수리"
 gallery:
-  - url: /assets/images/changsoon/changsoon_kim.jpg
-    image_path: /assets/images/changsoon/changsoon_kim.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/snut/my_first_award.jpg
-    image_path: /assets/images/snut/my_first_award.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: /assets/images/jimbot/jimbot2.jpg
+    image_path: /assets/images/jimbot/jimbot2.jpg
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+전시용 Jimbot
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+한국말 그대로 "짐을 옮겨주는 로봇" 입니다. 
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+래미안 갤러리에서 사용되고있어요.
+미래 주거환경에서 이렇게 사용되지 않을까..하는 미래 청사진의 느낌?
+
+
+{% include gallery caption="" %}

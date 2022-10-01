@@ -1,30 +1,38 @@
 ---
 title: "AirCart"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Cart robot in Airport"
 header:
-  # image: /assets/images/changsoon/changsoon_kim.jpg
   teaser: /assets/images/cart/IMG_4440.jpeg
 sidebar:
-  # nav: "docs"
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Electrical & Embedded developer\n
+    1. 모바일 모터드라이버 제어\n
+    2. 모바일 보드 Debugging\n
+    3. 양산작업\n
+    4. 고장 원인 분석 및 수리"
 gallery:
-  - url: /assets/images/changsoon/changsoon_kim.jpg
-    image_path: /assets/images/changsoon/changsoon_kim.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/snut/my_first_award.jpg
-    image_path: /assets/images/snut/my_first_award.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+  - url: /assets/images/cart/IMG_0123.jpeg
+    image_path: /assets/images/cart/IMG_0123.jpeg
+  - url: /assets/images/cart/IMG_0157.jpeg
+    image_path: /assets/images/cart/IMG_0157.jpeg
+  - url: /assets/images/cart/IMG_4133.jpeg
+    image_path: /assets/images/cart/IMG_4133.jpeg
+  - url: /assets/images/cart/IMG_3217.jpeg
+    image_path: /assets/images/cart/IMG_3217.jpeg
+  - url: /assets/images/cart/IMG_4440.jpeg
+    image_path: /assets/images/cart/IMG_4440.jpeg
+  - url: /assets/images/cart/IMG_7978.jpeg
+    image_path: /assets/images/cart/IMG_7978.jpeg
+
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+인천국제공항 2터미널에 가시면 출국장에서 보실 수 있습니다. 
+바코드만 보여주면 로봇이 출국게이트까지 이송해드린답니다. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+개발하는데 우여곡절이 많았던 녀석...
+모든 것이 처음이었고, 그래서 고생했고, 그래서 만족스러운...
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+공항이라는 곳에서 서비스 해봤다는 것에 만족합니다. 
+
+
+{% include gallery caption="" %}

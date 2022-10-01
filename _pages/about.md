@@ -8,20 +8,63 @@ toc: true
 toc_sticky: true
 # sidebar:
 #     nav: "docs"
+
+gallery:
+
+  - url: /assets/images/changsoon/changsoon_kim.jpg
+    image_path: /assets/images/changsoon/changsoon_kim.jpg  
+  - url: /assets/images/changsoon/IMG_4437.jpg
+    image_path: /assets/images/changsoon/IMG_4437.jpg
+  - url: /assets/images/changsoon/cy-000054.jpg
+    image_path: /assets/images/changsoon/cy-000054.jpg  
+  - url: /assets/images/changsoon/IMG_4473.jpg
+    image_path: /assets/images/changsoon/IMG_4473.jpg  
+  - url: /assets/images/changsoon/cy-001136.jpg
+    image_path: /assets/images/changsoon/cy-001136.jpg
+  - url: /assets/images/changsoon/cy-001138.jpg
+    image_path: /assets/images/changsoon/cy-001138.jpg
+
 ---
 
-<center><img src="{{ site.url }}{{ site.baseurl }}/assets/images/changsoon/changsoon_small.jpg" alt=""></center>
-
+{% include gallery layout="third" caption="" %}
 # Hey!
   
-This is Robotist, ChangSoon Kim.  
-
+This is Robotist, Chang-Soon Kim.  
 
 ## Work experience
 
 Jan 2017 ~ Present : Wonik Robotics Co., Ltd
 - Embedded Firmware Engineer
+  - RTOS, ARM Core..
+- Mobile robot maintainer
+- AllegroHand maintainer
 
+## Company project(Portfolio 참고)
+
+## 나의 강점 및 경험치
+1. 원리이해하고 일을 하자.
+2. Embedded debugging
+3. Embedded firmware release
+4. Repogitory maintainer
+5. Technical supporter
+6. Firmware bug tracker
+7. 의견 수렴 및 반영하는 자세
+8. 올바른 문서화 및 배포
+9. 코드에서 Input / Output을 확인하는 습관
+
+## 나의 단점
+원리를 이해하는데 시간을 많이 투자한다(가끔 단점이 됨)
+
+너무 재미있는 것만 하려고 하지말자
+## Research interests
+
+Artificial muscle (pneumatic..pneumatic..)
+
+Mobile robotics
+
+Embedded RTOS
+
+Robotics
 
 ## Education
 ### M.S. 
@@ -38,15 +81,6 @@ Thesis Title : Development of an Intelligent Ankle Assistive Robot
 
 [Link](http://dx.doi.org/10.5302/J.ICROS.2015.15.9022) / [Youtube](https://youtu.be/sAeBIzgzT4A)  
 
-## Research interests
-
-Artificial muscle (pneumatic..pneumatic..)
-
-Mobile robotics
-
-Embedded RTOS
-
-
 
 ## Hobby
 ### Ball & Nature
@@ -62,6 +96,7 @@ Armored core, Dark soul, Elden ring, Horizon, Monster Hunter, GTA....
 - 조금 늦어도, 내 인생에는 늦은 건 아님
 - 할 거면 제대로 하자
 - 너무 오래 앉아있지말자
+- 대화를 자주 하자
 
 
 ## Other links
