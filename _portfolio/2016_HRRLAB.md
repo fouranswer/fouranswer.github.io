@@ -36,6 +36,9 @@ gallery:
 행복한 연구실~
 
 
+{% include video id="pNlS6bKO4vw" provider="youtube" %}
+
+
 2017 Dept. of Mechanical System Design Engineering, Seoul Nat’l Univ. of Science and Technology, South Korea
 
 Thesis Title : Development of Ankle Power Assistive Robot using Pneumatic Muscle
