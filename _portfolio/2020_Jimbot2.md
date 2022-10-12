@@ -6,10 +6,11 @@ header:
 sidebar:
   - title: "Role"
     text: "Electrical & Embedded developer\n
-    1. 모바일 모터드라이버 제어\n
-    2. 모바일 보드 Debugging\n
-    3. 양산작업\n
-    4. 고장 원인 분석 및 수리"
+    1. Motor controller control\n
+    2. Firmware development(STM32)\n
+    3. Electric board test & debugging\n
+    4. Production work\n
+    5. Failure cause analysis"
 gallery:
   - url: /assets/images/jimbot/jimbot2.jpg
     image_path: /assets/images/jimbot/jimbot2.jpg
