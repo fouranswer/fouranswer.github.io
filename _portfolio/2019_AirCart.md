@@ -18,14 +18,15 @@ gallery:
     image_path: /assets/images/cart/IMG_0157.jpeg
   - url: /assets/images/cart/IMG_4133.jpeg
     image_path: /assets/images/cart/IMG_4133.jpeg
-  - url: /assets/images/cart/IMG_3217.jpeg
-    image_path: /assets/images/cart/IMG_3217.jpeg
-  - url: /assets/images/cart/IMG_4440.jpeg
-    image_path: /assets/images/cart/IMG_4440.jpeg
+  - url: /assets/images/cart/IMG_4053.JPG
+    image_path: /assets/images/cart/IMG_4053.JPG
+  - url: /assets/images/cart/IMG_4054.JPG
+    image_path: /assets/images/cart/IMG_4054.JPG
   - url: /assets/images/cart/IMG_7978.jpeg
     image_path: /assets/images/cart/IMG_7978.jpeg
 
 ---
+{% include video id="qJPDew8Pdng" provider="youtube" %}
 
 인천국제공항 2터미널에 가시면 출국장에서 보실 수 있습니다. 
 바코드만 보여주면 로봇이 출국게이트까지 이송해드린답니다. 
