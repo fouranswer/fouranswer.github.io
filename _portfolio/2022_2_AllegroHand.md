@@ -2,7 +2,7 @@
 title: "AllegroHand"
 excerpt: "Dexterous manipulation hand"
 header:
-  teaser: /assets/images/allegrohand/IMG_2604.jpeg
+  teaser: /assets/images/allegrohand/hand_raw.jpg
 sidebar:
   - title: "Role"
     text: "Electrical & Embedded developer\n
@@ -14,10 +14,13 @@ sidebar:
 gallery:
   - url: /assets/images/allegrohand/IMG_2604.jpeg
     image_path: /assets/images/allegrohand/IMG_2604.jpeg
+  - url: /assets/images/allegrohand/hand_raw.jpg
+    image_path: /assets/images/allegrohand/hand_raw.jpg
+  - url: /assets/images/allegrohand/AllegroHand_100th.jpg
+    image_path: /assets/images/allegrohand/AllegroHand_100th.jpg
 ---
 
 AllegroHand..
 
-새로운 개발 준비..
 
 {% include gallery caption="" %}
