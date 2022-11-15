@@ -16,6 +16,8 @@ gallery:
     image_path: /assets/images/cart/IMG_0123.jpeg
   - url: /assets/images/cart/IMG_0157.jpeg
     image_path: /assets/images/cart/IMG_0157.jpeg
+  - url: /assets/images/cart/cart_repair.jpeg
+    image_path: /assets/images/cart/cart_repair.jpeg
   - url: /assets/images/cart/IMG_4133.jpeg
     image_path: /assets/images/cart/IMG_4133.jpeg
   - url: /assets/images/cart/IMG_4053.JPG
