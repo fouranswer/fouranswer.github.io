@@ -19,7 +19,7 @@ gallery:
   - url: /assets/images/changsoon/cy-000054.jpg
     image_path: /assets/images/changsoon/cy-000054.jpg  
   - url: /assets/images/changsoon/IMG_4473.JPG
-    image_path: /assets/images/changsoon/IMG_4473.JPG  
+    image_path: /assets/images/changsoon/IMG_4473.JPG
   - url: /assets/images/changsoon/cy-001136.jpg
     image_path: /assets/images/changsoon/cy-001136.jpg
   - url: /assets/images/changsoon/cy-001138.jpg
@@ -51,12 +51,14 @@ Jan 2017 ~ Feb 2023(6years 2month) : Wonik Robotics Co., Ltd
 ## Company project(Portfolio 참고)
 
 ## 나의 강점 및 경험치
+
 1. 원리이해하고 일을 하자.
 2. 의견 수렴 및 반영하는 자세
 3. 올바른 문서화 및 배포
 4. 코드에서 Input / Output을 확인하는 습관
 
 ## 나의 단점
+
 원리를 이해하는데 시간을 많이 투자한다(가끔 단점이 됨)
 
 너무 재미있는 것만 하려고 하지말자
