@@ -14,21 +14,12 @@ gallery:
     image_path: /assets/images/changsoon/IMG_5658.jpeg
   - url: /assets/images/changsoon/changsoon_kim.jpg
     image_path: /assets/images/changsoon/changsoon_kim.jpg  
-  - url: /assets/images/changsoon/IMG_4437.jpg
-    image_path: /assets/images/changsoon/IMG_4437.jpg
-  - url: /assets/images/changsoon/cy-000054.jpg
-    image_path: /assets/images/changsoon/cy-000054.jpg  
   - url: /assets/images/changsoon/IMG_4473.JPG
     image_path: /assets/images/changsoon/IMG_4473.JPG
-  - url: /assets/images/changsoon/cy-001136.jpg
-    image_path: /assets/images/changsoon/cy-001136.jpg
-  - url: /assets/images/changsoon/cy-001138.jpg
-    image_path: /assets/images/changsoon/cy-001138.jpg
-
 ---
 
 {% include gallery layout="third" caption="" %}
-# Hey!
+# Hello!
   
 This is Robotist, Chang-Soon Kim.  
 
@@ -48,28 +39,14 @@ Jan 2017 ~ Feb 2023(6years 2month) : Wonik Robotics Co., Ltd
 
 - AllegroHand maintainer
 
-## Company project(Portfolio 참고)
-
-## 나의 강점 및 경험치
-
-1. 원리이해하고 일을 하자.
-2. 의견 수렴 및 반영하는 자세
-3. 올바른 문서화 및 배포
-4. 코드에서 Input / Output을 확인하는 습관
-
-## 나의 단점
-
-원리를 이해하는데 시간을 많이 투자한다(가끔 단점이 됨)
-
-너무 재미있는 것만 하려고 하지말자
 ## Research interests
 
 - Linear algebra!!!
 - Artificial muscle (pneumatic..pneumatic..)
 - Mobile robotics
 - Embedded RTOS
-- Manipulator Robotics
-- Machine Learning..(ing..)
+- Manipulator robotics
+- Machine learning..(ing..)
 
 ## Education
 ### M.S. 
@@ -86,23 +63,27 @@ Thesis Title : Development of an Intelligent Ankle Assistive Robot
 
 [Link](http://dx.doi.org/10.5302/J.ICROS.2015.15.9022) / [Youtube](https://youtu.be/sAeBIzgzT4A)  
 
-
 ## Hobby
-### Ball & Nature
-- 풋살, 축구, 등산, 캠핑  
 
-### Game (Playstation) 
-Armored core, Dark soul, Elden ring, Horizon, Monster Hunter, GTA....
+### Ball & Nature
+
+- Football, Mountain climbing, Camping  
+
+### Game(Playstation) 
+
+- Armored core, Dark soul, Elden ring, Horizon, Monster Hunter, GTA....
 
 ## Work Life
 
-- 무생물을 생물처럼!  
-- 모르는 건 물어보자
-- 조금 늦어도, 내 인생에는 늦은 건 아님
-- 할 거면 제대로 하자
-- 너무 오래 앉아있지말자
-- 대화를 자주 하자
+- To ask the right question is harder than to answer it.
+- Don't sit too long
+- Let's talk often
 
+## Pros and Cons
+
+Attitude of listening
+
+Spend a lot of time understanding the principles
 
 ## Other links
 

@@ -2,3 +2,6 @@
 layout: home
 author_profile: true
 ---
+
+{% assign about = site.pages | where: 'name','about.md' %}
+{{about}}
