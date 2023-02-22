@@ -26,6 +26,8 @@ gallery:
     image_path: /assets/images/cart/IMG_4054.JPG
   - url: /assets/images/cart/IMG_7978.jpeg
     image_path: /assets/images/cart/IMG_7978.jpeg
+  - url: /assets/images/cart/IMG_4816.jpeg
+    image_path: /assets/images/cart/IMG_4816.jpeg
 
 ---
 {% include video id="qJPDew8Pdng" provider="youtube" %}

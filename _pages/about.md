@@ -10,7 +10,8 @@ toc_sticky: true
 #     nav: "docs"
 
 gallery:
-
+  - url: /assets/images/changsoon/IMG_5658.jpeg
+    image_path: /assets/images/changsoon/IMG_5658.jpeg
   - url: /assets/images/changsoon/changsoon_kim.jpg
     image_path: /assets/images/changsoon/changsoon_kim.jpg  
   - url: /assets/images/changsoon/IMG_4437.jpg
@@ -33,24 +34,27 @@ This is Robotist, Chang-Soon Kim.
 
 ## Work experience
 
-Jan 2017 ~ Present : Wonik Robotics Co., Ltd
-- Embedded Firmware Engineer
-  - RTOS, ARM Core..
-- Mobile robot maintainer
+Jan 2017 ~ Feb 2023(6years 2month) : Wonik Robotics Co., Ltd
+
+- Embedded firmware engineer
+  - Custom STM32 board bringup & troubleshooting(STM32CubeIDE & IAR EWARM)
+  - STM32 FreeRTOS study & apply
+  - Circuit operation inspection and testing before mass production
+  - Analysis of the cause of the circuit failure
+  - USB communication with ROS middleware
+  - Motor controller testing
+  - Tuning of various motors (in-wheel, reducer motors)
+  - Technical support of robots
+
 - AllegroHand maintainer
 
 ## Company project(Portfolio 참고)
 
 ## 나의 강점 및 경험치
 1. 원리이해하고 일을 하자.
-2. Embedded debugging
-3. Embedded firmware release
-4. Repogitory maintainer
-5. Technical supporter
-6. Firmware bug tracker
-7. 의견 수렴 및 반영하는 자세
-8. 올바른 문서화 및 배포
-9. 코드에서 Input / Output을 확인하는 습관
+2. 의견 수렴 및 반영하는 자세
+3. 올바른 문서화 및 배포
+4. 코드에서 Input / Output을 확인하는 습관
 
 ## 나의 단점
 원리를 이해하는데 시간을 많이 투자한다(가끔 단점이 됨)
@@ -58,13 +62,12 @@ Jan 2017 ~ Present : Wonik Robotics Co., Ltd
 너무 재미있는 것만 하려고 하지말자
 ## Research interests
 
-Artificial muscle (pneumatic..pneumatic..)
-
-Mobile robotics
-
-Embedded RTOS
-
-Robotics
+- Linear algebra!!!
+- Artificial muscle (pneumatic..pneumatic..)
+- Mobile robotics
+- Embedded RTOS
+- Manipulator Robotics
+- Machine Learning..(ing..)
 
 ## Education
 ### M.S. 
