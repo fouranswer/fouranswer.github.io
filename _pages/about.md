@@ -84,7 +84,3 @@ Thesis Title : Development of an Intelligent Ankle Assistive Robot
 Attitude of listening
 
 Spend a lot of time understanding the principles
-
-## Other links
-
-[Linkedin](www.linkedin.com/in/changsoonkim)

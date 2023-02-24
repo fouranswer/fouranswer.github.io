@@ -26,5 +26,11 @@ gallery:
 
 AllegroHand..
 
+여러모로 많이 아쉬움이 남는 hand..
+개발계획도 세웠지만..
+여러모로 말도, 탈도 많았네요.
+
+하지만 미래에 대한 단서를 보여주는 제품이라고 생각합니다.
+
 
 {% include gallery caption="" %}
