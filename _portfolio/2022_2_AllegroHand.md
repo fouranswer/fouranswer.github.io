@@ -24,6 +24,10 @@ gallery:
     image_path: /assets/images/allegrohand/AllegroHand_100th.jpg
 ---
 
+{% include video id="AKEKAU3cACw" provider="youtube" %}
+
+{% include gallery caption="" %}
+
 AllegroHand..
 
 여러모로 많이 아쉬움이 남는 hand..
@@ -31,6 +35,3 @@ AllegroHand..
 여러모로 말도, 탈도 많았네요.
 
 하지만 미래에 대한 단서를 보여주는 제품이라고 생각합니다.
-
-
-{% include gallery caption="" %}

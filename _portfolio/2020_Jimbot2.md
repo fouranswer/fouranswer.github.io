@@ -14,7 +14,11 @@ sidebar:
 gallery:
   - url: /assets/images/jimbot/jimbot2.jpg
     image_path: /assets/images/jimbot/jimbot2.jpg
+  - url: /assets/images/jimbot/IMG_1707.JPG
+    image_path: /assets/images/jimbot/IMG_1707.JPG
 ---
+
+{% include gallery caption="" %}
 
 전시용 Jimbot
 
@@ -22,6 +26,3 @@ gallery:
 
 래미안 갤러리에서 사용되고있어요.
 미래 주거환경에서 이렇게 사용되지 않을까..하는 미래 청사진의 느낌?
-
-
-{% include gallery caption="" %}

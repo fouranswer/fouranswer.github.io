@@ -18,10 +18,10 @@ gallery:
 
 ---
 
+{% include gallery caption="" %}
+
 처음 입사하고 나서 참여했던 로봇..
 아쉽게도 LG전자의 Airstar에 밀려 그만... ㅠㅠ..
 
 로봇 내부에 있는 무게측정관련 기능을 만들었던 기억이 나네요.
 이 로봇을 시작으로...! 
-
-{% include gallery caption="" %}

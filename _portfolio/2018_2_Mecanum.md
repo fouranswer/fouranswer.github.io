@@ -18,12 +18,12 @@ gallery:
 
 ---
 
-{% include video id="rx5pQNfpsC8" provider="youtube" %}
+{% include video id="WEHfAMIuyD0" provider="youtube" %}
 
 {% include gallery caption="" %}
 
 
-메카넘 로봇..
+Mecanum 로봇..
 
 한때 만든다고 고생했었습니다. 결국 안썼지만... 어떻게 하는지도 모르는 데 
 이것저것 찔러보면서.. 구글링하면서..
