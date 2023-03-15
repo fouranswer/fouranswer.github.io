@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/automatica2022/IMG_9612.jpeg
 sidebar:
   - title: "Role"
-    text: "Electrical & Embedded developer\n"
+    text: "Robot exhibition\n"
 gallery:
   - url: /assets/images/automatica2022/IMG_9688.jpeg
     image_path: /assets/images/automatica2022/IMG_9688.jpeg
@@ -27,7 +27,8 @@ gallery:
 ---
 
 {% include gallery caption="" %}
-Germany
 
-ISR Europe 2022 & Automatica 2022
+Germany, 2022.6.19 ~ 2022.6.26
+
+ISR Europe & Automatica 2022
 
