@@ -24,7 +24,7 @@ gallery:
     image_path: /assets/images/allegrohand/AllegroHand_100th.jpg
 ---
 
-{% include video id="AKEKAU3cACw" provider="youtube" %}
+{% include video id="bvRRr8wlf-I" provider="youtube" %}
 
 {% include gallery caption="" %}
 
