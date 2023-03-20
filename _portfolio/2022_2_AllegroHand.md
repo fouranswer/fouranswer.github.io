@@ -35,3 +35,12 @@ AllegroHand..
 여러모로 말도, 탈도 많았네요.
 
 하지만 미래에 대한 단서를 보여주는 제품이라고 생각합니다.
+
+## Development contribution
+
+- 개발 Roadmap 조사
+- 모터 테스트 GUI 프로그램 제작
+- 생산 단계단축 개선  
+- 해외기술문의  
+- 수리 A/S
+- Troubleshooting & FAQ 문서 제작

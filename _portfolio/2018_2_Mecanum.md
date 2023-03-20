@@ -22,10 +22,12 @@ gallery:
 
 {% include gallery caption="" %}
 
+Mecanum robot
 
-Mecanum 로봇..
+한때 만든다고 고생했었습니다. 결국 안썼지만... 어떻게 하는지도 모르는 데 이것저것 찔러보면서!
 
-한때 만든다고 고생했었습니다. 결국 안썼지만... 어떻게 하는지도 모르는 데 
-이것저것 찔러보면서.. 구글링하면서..
+## Development contribution
 
-재미있었던 추억
+- STM32 board bring up
+- CAN통신 시스템 구현
+- mecanum kinematics

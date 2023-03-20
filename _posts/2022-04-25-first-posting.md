@@ -12,6 +12,13 @@ sidebar_main: true
     # nav: "docs"
 ---
 
+``` python
+bundle exec jekyll serve    
+```
+
+[local site](http://127.0.0.1:4000){: .btn .btn--danger}
+
+
 # Hello world 
 {: .notice--danger}
 (https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#notices)
@@ -115,8 +122,13 @@ bundle install
 
 bundle add webrick
 
-bundle exec jekyll serve    // 이제 큰 설정이 바뀔 때는 이 명령으로 다시 실행해준다.
+이제 큰 설정이 바뀔 때는 이 명령으로 다시 실행해준다.
 
+``` python
+bundle exec jekyll serve    
+```
+
+[local site](http://127.0.0.1:4000){: .btn .btn--danger}
 
 # test1
 
