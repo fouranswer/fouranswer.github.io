@@ -26,7 +26,11 @@ This is Robotist, Chang-Soon Kim!!
 
 ## Work experience
 
-Jan 2017 ~ Feb 2023(6years 2month) : Wonik Robotics Co., Ltd
+Roen Surgical : June 2023 ~ Present.
+- Embedded system and programming of surgical robots..
+
+
+Wonik Robotics Co., Ltd : Jan 2017 ~ Feb 2023(6years 2month)
 
 - Embedded firmware engineer
   - Custom STM32 board bringup & troubleshooting(STM32CubeIDE & IAR EWARM)
